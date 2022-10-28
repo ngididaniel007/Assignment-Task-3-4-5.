@@ -1,0 +1,32 @@
+
+
+Submission closed 6 days ago - On 2022-10-22 10:00:00
+
+Task Points: 5
+
+Task Title: Week 4 NodeJS Task: Inheritance, Functions / Arrow Functions, Cookies, Promises and Async
+Elective
+Full Stack 3: Frontend And Nodejs
+Created 04-10-2022 20:02:44
+
+Create a number guessing game to generate a number between the range of 1 and 2. The game should prompt users for their username.
+Set range as function parameter and prompt the player to predict the generated number between the given range. At a correct guess, the game should award the player a point and move them to stage 2 by increasing the range limit value by 1, e.g. range is from 1 and 3 for stage 2 and so on. Connect replit account to GitHub and save your program on GitHub. Ensure that your replit link is written in your GitHub repo readme file. Submit GitHub link to the saved project.
+
+ 
+
+Submission Mode: Accessible GitHub link
+ 
+
+Task Status
+Submitted
+
+Submit Task
+TASK EXPIRED!
+Task has expired and can no longer be submitted You have already submitted this task.
+
+Your submission:
+Mode of Submission: URL
+
+Submission:
+
+https://github.com/ngididaniel007/guessing-Game/blob/5d9520a27b684b58dbd8f515798178588e1bbaa5/README.md
